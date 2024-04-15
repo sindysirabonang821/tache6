@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: space-around;
     padding: 1%;
-    font-size: 12px;
+    font-size: 8px;
 }
 .droite-haut{
     display: flex;
@@ -31,12 +31,12 @@ body{
     background-color: #fff;
     color: black;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 16px;
 }
 .gras{
-    width: 100px;
+    width: 105px;
     position: absolute;
-    top: 6px;
+    top: 10px;
     left: 10px;
 }
 ul{
