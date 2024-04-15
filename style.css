@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: space-around;
     padding: 1%;
-    font-size: 14px;
+    font-size: 12px;
 }
 .droite-haut{
     display: flex;
@@ -34,8 +34,9 @@ body{
     font-size: 20px;
 }
 .gras{
-    width: 143px;
+    width: 135px;
     position: absolute;
+    top: 6px;
     left: 10px;
 }
 ul{
